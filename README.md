@@ -5,6 +5,7 @@
 </p>
 
 E-commerce dedica a la venta de libros de toda categoría.
+Versión pública.
 
 ## Estilo 
 
